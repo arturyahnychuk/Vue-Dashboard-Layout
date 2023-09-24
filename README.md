@@ -2,35 +2,14 @@
 
 Starter responsive dashboard layout built with tailwindcss & vue 3 (vitejs)
 
-[![GitHub license](https://img.shields.io/github/license/Kamona-WD/starter-dashboard-layout-vue)](https://github.com/Kamona-WD/starter-dashboard-layout-vue/blob/main/License.md)
-[![GitHub stars](https://img.shields.io/github/stars/Kamona-WD/starter-dashboard-layout-vue)](https://github.com/Kamona-WD/starter-dashboard-layout-vue/stargazers)
-
-## [See live](https://kamona-wd.github.io/starter-dashboard-layout-vue/)
-
-## Another projects
-
-#### Alpine version
-
-#### [Live](https://kamona-wd.github.io/starter-dashboard-layout/)
-
-#### [Github repo](https://github.com/Kamona-WD/starter-dashboard-layout/)
-
-#### K-WD dashboard (Tailwindcss & alpinejs)
-
-#### [Live](https://kamona-wd.github.io/kwd-dashboard/)
-
-#### [Github repo](https://github.com/Kamona-WD/kwd-dashboard/)
-
----
-
 To get started:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kamona-WD/starter-dashboard-layout-vue.git
+   git clone https://github.com/arturyahnychuk/Vue-Dashboard-Layout.git
 
-   cd starter-dashboard-layout-vue
+   cd Vue-Dashboard-Layout
    ```
 
 2. Install the dependencies:
